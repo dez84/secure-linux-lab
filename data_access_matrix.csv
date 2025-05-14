@@ -1,0 +1,3 @@
+Role	          Group	       Access	      Directory
+DataEngineer	 datateam	    read/write	    /data/engineering
+Analyst	       analytics	   read-only	      /data/analytics
